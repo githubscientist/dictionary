@@ -7,8 +7,8 @@ function App() {
         meaning of a word or improve their vocabulary in a convenient
         and efficient way.</p>
       <ul>
-        <li><a>synonyms</a></li>
-        <li><a>antonyms</a></li>
+        <li><a href="/synonyms">synonyms</a></li>
+        <li><a href="/antonyms">antonyms</a></li>
       </ul>
     </>
   );
